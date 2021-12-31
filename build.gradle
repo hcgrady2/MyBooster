@@ -27,7 +27,6 @@ buildscript {
         //自己的 demo plugin
         classpath ("com.hc.demoplugin:demoPlugin:1.0.0") { changing = true }
 
-
     }
 }
 
