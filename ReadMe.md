@@ -9,7 +9,9 @@ https://www.jianshu.com/p/e54b3f89038f
 
 2、当前工程的仓库里面配置插件的位置，才能找到插件位置。
 
-3、
+3、gradle 也能 debug ，需要配置 java 8,配置 remote debug ，然后运行。
+
+
 
 
 
